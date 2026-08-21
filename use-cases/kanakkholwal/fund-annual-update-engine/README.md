@@ -100,8 +100,9 @@ The verification is not the engine marking its own homework: the exported `.docx
 re-read from disk and every requested value is looked for in the text and table cells. The KID's
 `4 out of 7` became `5 out of 7`, not a bare `5`.
 
-The two artefacts a reviewer actually reads are committed from that run:
-[`docs/marked-version.html`](docs/marked-version.html) and [`docs/change-log.docx`](docs/change-log.docx).
+![The marked version a reviewer signs off](docs/marked-version.png)
+
+Both artefacts from that run are committed: [`docs/marked-version.html`](docs/marked-version.html) and [`docs/change-log.docx`](docs/change-log.docx).
 
 ---
 
